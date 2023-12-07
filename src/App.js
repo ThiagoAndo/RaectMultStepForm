@@ -23,8 +23,11 @@ function App() {
       setClick(1);
     }
   };
-  console.log("click");
-  console.log(click);
+
+  if (click === 4) {
+    localStorage.clear();
+  }
+
   return (
     <Container>
       <Header>
