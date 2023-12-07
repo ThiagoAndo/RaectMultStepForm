@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RaectMultStepForm/static/css/main.0717f9f6.css",
+    "main.js": "/RaectMultStepForm/static/js/main.aa637e53.js",
+    "static/media/bg-sidebar-desktop.svg": "/RaectMultStepForm/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/bg-sidebar-mobile.svg": "/RaectMultStepForm/static/media/bg-sidebar-mobile.ad41661b40ca0b967f3a.svg",
+    "static/media/icon-advanced.svg": "/RaectMultStepForm/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/RaectMultStepForm/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "index.html": "/RaectMultStepForm/index.html",
+    "static/media/icon-pro.svg": "/RaectMultStepForm/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "static/media/warning-outline.svg": "/RaectMultStepForm/static/media/warning-outline.064824b7ec6be324675c.svg",
+    "static/media/information-circle-outline.svg": "/RaectMultStepForm/static/media/information-circle-outline.8f3478851a8ac86cd04e.svg",
+    "static/media/icon-arcade.svg": "/RaectMultStepForm/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.0717f9f6.css.map": "/RaectMultStepForm/static/css/main.0717f9f6.css.map",
+    "main.aa637e53.js.map": "/RaectMultStepForm/static/js/main.aa637e53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0717f9f6.css",
+    "static/js/main.aa637e53.js"
+  ]
+}
