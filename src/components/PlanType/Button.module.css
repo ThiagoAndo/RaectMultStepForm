@@ -41,7 +41,7 @@
 .color {
   color: hsl(231, 11%, 63%);
 }
-@media (min-width: 440px) and (max-width: 1600px) {
+@media (min-width: 440px) and (max-width: 2000px) {
 
  #holdBtn {
     width: 450px;

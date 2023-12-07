@@ -34,7 +34,7 @@ button:after {
   margin-right: 10px;
 }
 
-@media (min-width: 440px) and (max-width: 1600px) {
+@media (min-width: 440px) and (max-width: 2000px) {
   .botton {
     height: 60px;
     margin-top: 0;

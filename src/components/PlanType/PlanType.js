@@ -73,9 +73,6 @@ const Plantype = () => {
       setLength(year);
     }
 
-    // console.log(" context.choosePlan.type");
-    // console.log(context.choosePlan.type === null);
-
     if (planLocal && planLocalPrice && context.choosePlan.type === "") {
       context.setPlan(planLocal, Number(planLocalPrice));
     }

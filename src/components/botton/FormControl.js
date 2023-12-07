@@ -70,7 +70,6 @@ const FormControl = ({ onClick, click }) => {
   if (click === 3) {
     context.setTotal();
   }
-  console.log(click);
   return (
     <div className={"botton"}>
       <Modal

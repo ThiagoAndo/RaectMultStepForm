@@ -245,7 +245,7 @@
 
 /*===================================================*/
 
-@media (min-width: 440px) and (max-width: 1600px) {
+@media (min-width: 440px) and (max-width: 2000px) {
   #planCont {
     grid-area: 1/ 2/ 2/ 3;
     box-shadow: 0px 0px 0px 0px;

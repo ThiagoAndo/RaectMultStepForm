@@ -1,4 +1,4 @@
-import { useState, useContext, useRef } from "react";
+import { useState, useContext } from "react";
 
 import style from "./Form.module.css";
 import AuthContext from "../../context/auth-context";
